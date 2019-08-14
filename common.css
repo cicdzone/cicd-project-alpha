@@ -277,7 +277,7 @@ div.task-progress-running {
 }
 
 .SUCCESS {
-    border-left: 6px solid #25228C;
+    border-left: 6px solid purple; !important
 }
 
 .UNSTABLE {
